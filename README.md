@@ -1,4 +1,4 @@
-# Linear Regression Model for calculating Customer Credit Scores
+# Predictive Models using SVM - (Support Vector Machines)
 
 Project aimed at creating, testing and evaluating an example of an SVM (Support Vector Machine) model that can be used to predict online retail purchases.
 

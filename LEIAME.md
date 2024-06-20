@@ -1,4 +1,4 @@
-# Modelo de Regressão Linear para o cálculo de Score de Crédito de Clientes
+# Modelos Preditivos utilizando SVM - (Support Vector Machines)
 
 Projeto destinado a criação, teste e avaliação de um exemplo de modelo SVM (Support Vector Machine) que poderá ser utilizado para prever a efetivação de compras no varejo online.
 
